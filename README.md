@@ -23,7 +23,7 @@ Eventually, it will provide the following software:
 The [Anodyne][3] personal supercomputer project poses a dilemma: with
 how conjoined hardware and software are both in theory and in product,
 it is hard to significantly improve one without being held back by the
-other. Just try installing _Xilinx Vivado_ and marvelling at all of the
+other. Just try installing _Xilinx Vivado_ and marvel at all of the
 gigabytes of disk space you will end up needing &ndash; and that&rsquo;s
 the minimum required to start making _anything._
 
