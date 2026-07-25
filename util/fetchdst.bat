@@ -1,5 +1,5 @@
 @ECHO OFF
 
-mkdir data
+MKDIR data
 
-curl -fsSL "http://cowlark.com/old-compilers/pacific/pacific751.zip" > data\pacific7.zip
+CURL -fsSL "http://cowlark.com/old-compilers/pacific/pacific751.zip" > data\pacific7.zip
