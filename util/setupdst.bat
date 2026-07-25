@@ -9,3 +9,4 @@ mkdir data\system\PACIFICC
 rename data\system\PACIFICC\PPD.INI PPDINI.BAK
 copy src\ppd.ini data\system\PACIFICC\PPD.INI
 copy src\ansicol.bat data\system\ANSICOL.BAT
+copy src\senuscol.bat data\system\SENUSCOL.BAT
